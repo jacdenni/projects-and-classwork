@@ -1,0 +1,8 @@
+>human AAAAA
+>chimp GGGGG
+>fish TTTTT
+TTTTT
+CCCCC
+>banana GGGGG
+CCCCC
+>lion FFFFF
