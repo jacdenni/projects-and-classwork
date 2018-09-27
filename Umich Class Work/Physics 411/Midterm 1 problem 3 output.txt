@@ -1,0 +1,16 @@
+
+h = 0.1
+Second Order: 0.0
+Fourth Order: -0.00168013916905
+
+h = 0.01
+Second Order: 0.0
+Fourth Order: -1.68291394154e-05
+
+h = 0.001
+Second Order: 0.0
+Fourth Order: -1.68309810533e-07
+
+h = 0.0001
+Second Order: 0.0
+Fourth Order: 1.11022302463e-08
